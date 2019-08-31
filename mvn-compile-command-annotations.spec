@@ -4,7 +4,7 @@
 #
 Name     : mvn-compile-command-annotations
 Version  : 1.2.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/nicoulaj/compile-command-annotations/archive/1.2.0.tar.gz
 Source0  : https://github.com/nicoulaj/compile-command-annotations/archive/1.2.0.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/net/ju-n/compile-command-annotations/compile-command-annotations/1.2.0/compile-command-annotations-1.2.0-sources.jar
